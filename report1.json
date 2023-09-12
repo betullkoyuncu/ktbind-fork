@@ -1,0 +1,11 @@
+{
+        "fileReports": [
+        {
+        "filename": "main.js",
+        "coverage": {
+        "21": 0,
+        "27": 1
+        }
+        }
+        ]
+        }
